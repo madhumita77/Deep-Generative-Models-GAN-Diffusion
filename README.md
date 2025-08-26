@@ -211,7 +211,6 @@ Madhumita Gayen - madhumitagayen07@gmail.com
 
 Project Link: [https://github.com/madhumita77/Deep-Generative-Models-GAN-Diffusion](https://github.com/madhumita77/Deep-Generative-Models-GAN-Diffusion)
 
-```
 
 
 

@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch model files and checkpoints
+*.pt
+*.pth
+ddpm_model.pth
+generator_vanilla.pth
+
+# Generated images and outputs
+*.png
+ddpm_training_loss.png
+ddmp_generation_process.png
+ddpm_final_samples.png
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset directory (MNIST will be downloaded here)
+data/
+
+# VSCode Settings
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+
+# Python virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Conda environments
+.conda/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Matplotlib cache
+.cache/
+
+# Tensorboard logs
+runs/
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.idea/
+*.swp
+*.swo
+
+# Output directories
+outputs/
+results/
+experiments/

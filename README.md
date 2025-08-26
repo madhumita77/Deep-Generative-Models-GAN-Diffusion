@@ -200,6 +200,7 @@ This project was developed as part of the **Advanced Deep Learning for Image Pro
 
 ## 📄 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 This project is developed for educational purposes as part of academic coursework Advanced Deep Learning for Image Processing and Computer Vision (ADIPCV).
 
 ---
@@ -208,16 +209,9 @@ This project is developed for educational purposes as part of academic coursewor
 
 Madhumita Gayen - madhumitagayen07@gmail.com
 
-Project Link: [https://github.com/madhumita77/multisite_product_webscrapping](https://github.com/madhumita77/multisite_product_webscrapping)
+Project Link: [https://github.com/madhumita77/Deep-Generative-Models-GAN-Diffusion](https://github.com/madhumita77/Deep-Generative-Models-GAN-Diffusion)
 
 ```
 
-This README provides a comprehensive overview of your project, highlighting both the technical implementation details and the academic context. It's structured to showcase your skills to potential employers while providing clear documentation for anyone wanting to understand or use your code.
-<span style="display:none">[^2][^2]</span>
 
-<div style="text-align: center">⁂</div>
-
-[^1]: diffusion_model.ipynb
-
-[^2]: GAN_cGAN.ipynb
 
